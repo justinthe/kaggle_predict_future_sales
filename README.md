@@ -7,18 +7,18 @@ Folder Structur:
 <a>https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600</a>
 Project
 *  src
-	**  preparation (data ingestion such as retrieve from csv, db, etc)
-	**  processing 
-	**  modelling
+	+  preparation (data ingestion such as retrieve from csv, db, etc)
+	+  processing 
+	+  modelling
 *  test
 *  model (incl metadata such as date, size etc)
 *  data
-	**  raw
-	**  processed
+	+  raw
+	+  processed
 *  notebook
-	**  eda (exploratory data analysis)
-	**  poc (proof of concept)
-	**  modelling (model building and training)
-	**  evaluation (demonstration)
+	+  eda (exploratory data analysis)
+	+  poc (proof of concept)
+	+  modelling (model building and training)
+	+  evaluation (demonstration)
 
 
